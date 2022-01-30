@@ -2,7 +2,7 @@
 
 I did this project to show my understanding of React and other supoorting elements.This is a prototype and a work in progress
 
-![img](todopix.ng)
+![img](todopix.png)
 
 ## Bugs
 
@@ -16,7 +16,10 @@ I am still trying to figure out the issues with some bugs I found and they inclu
 
 ## Tech stack used
 
-Javascript
-React
-CSS
-HTML
+### Javascript
+
+### React
+
+### CSS
+
+### HTML
